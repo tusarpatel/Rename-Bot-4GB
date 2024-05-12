@@ -20,10 +20,10 @@ async def upgrade(bot,update):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `madflixofficial@axl`
+	Pay Using Upi I'd `9675208706@fam`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+        Payment To Admin @itz_tusarr"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("Admin",url = "https://t.me/calladminrobot")], 
         			[InlineKeyboardButton("Phone Pay",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
@@ -50,10 +50,10 @@ async def upgradecm(bot,message):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `madflixofficial@axl`
+	Pay Using Upi I'd `9675208706@fam`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @calladminrobot"""
+        Payment To Admin @itz_tusarr"""
 	keybord = InlineKeyboardMarkup([[ 
         			InlineKeyboardButton("Admin",url = "https://t.me/calladminrobot")], 
         			[InlineKeyboardButton("Phone Pay",url = "https://telegra.ph/file/7f959437f9375b313ed1c.jpg"),
